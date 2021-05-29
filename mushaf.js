@@ -1,5 +1,3 @@
-const mushafs = require("./mushafs");
-
 const mushaf = (rawi) => {
   let chapters, verses, raw, parts, sections;
 
@@ -28,4 +26,6 @@ const mushaf = (rawi) => {
   };
 };
 
-module.exports = mushaf(null);
+const data = mushaf("abu_amr/duri");
+
+module.exports = data;
