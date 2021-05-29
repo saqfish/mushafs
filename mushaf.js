@@ -26,6 +26,9 @@ const mushaf = (rawi) => {
   };
 };
 
-const data = mushaf("abu_amr/duri");
+// epxort both rawis, this is only a template
+const rawi1 = mushaf(null);
+const rawi2 = mushaf(null);
 
-module.exports = data;
+module.exports.rawi1 = rawi1;
+module.exports.rawi2 = rawi2;
