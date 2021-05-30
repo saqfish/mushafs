@@ -27,8 +27,8 @@ const mushaf = (rawi) => {
 };
 
 // epxort both rawis, this is only a template
-const rawi1 = mushaf(null);
-const rawi2 = mushaf(null);
+const hafs = mushaf("asim/hafs");
+const shuba = mushaf("asim/shuba");
 
-module.exports.rawi1 = rawi1;
-module.exports.rawi2 = rawi2;
+module.exports.rawi1 = hafs;
+module.exports.rawi2 = shuba;

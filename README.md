@@ -1,8 +1,3 @@
-Available mushafs:
-* [abu_amr](https://github.com/saqfish/mushafs/tree/abu_amr) - Duri & Susi
-* asim - soon inshAllah
-* nafi - soon inshAllah
-
-DO NOT merge branches to master. Each branch is a qari' and master will not accept PRs from any of those branches.
+This is the data set for Aasim ibn Abi An-Najud from his two students Hafs Ibn Sulaymaan (hafs) and Shu‘bah Ibn ‘Ayyash (shuba).
 
 This is meant to be used with the [mushaf project repository](https://github.com/saqfish/mushaf).
