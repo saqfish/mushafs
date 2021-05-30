@@ -1,19 +1,19 @@
 {
-  "name": "abu_amr",
+  "name": "",
   "version": "0.0.1",
-  "description": "Mushaf data for Abu Amr Al-Basri Duri/Suusi",
+  "description": "",
   "main": "mushaf.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saqfish/mushafs.git#abu_amr"
+    "url": "git+https://github.com/saqfish/mushafs.git#BRANCH"
   },
   "author": "saqfish",
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/saqfish/mushafs/issues"
   },
-  "homepage": "https://github.com/saqfish/mushafs/tree/abu_amr#readme"
+  "homepage": "https://github.com/saqfish/mushafs/tree/BRANCH#readme"
 }

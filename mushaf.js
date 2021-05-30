@@ -1,11 +1,13 @@
+// This is a template for each mushaf
+
 const mushaf = (rawi) => {
   let chapters, verses, raw, parts, sections;
 
   try {
-    chapters = require(`./data/${rawi}/chapters.json`);
-    verses = require(`./data/${rawi}/verses.json`);
-    raw = require(`./data/${rawi}/raw.json`);
-    parts = require(`./data/${rawi}/sections.json`);
+    chapters = require(`./${rawi}/chapters.json`);
+    verses = require(`./${rawi}/verses.json`);
+    raw = require(`./${rawi}/raw.json`);
+    parts = require(`./${rawi}/sections.json`);
     sections = [];
     if (parts) {
       for (let p of parts) {
