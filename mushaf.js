@@ -26,8 +26,8 @@ const mushaf = (rawi) => {
   };
 };
 
-const duri = mushaf("abu_amr/duri");
-const susi = mushaf("abu_amr/duri");
+const duri = mushaf("duri");
+const susi = mushaf("susi");
 
 module.exports.duri = duri;
 module.exports.susi = susi;
