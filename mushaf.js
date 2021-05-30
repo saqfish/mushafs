@@ -26,7 +26,6 @@ const mushaf = (rawi) => {
   };
 };
 
-// epxort both rawis, this is only a template
 const hafs = mushaf("asim/hafs");
 const shuba = mushaf("asim/shuba");
 
