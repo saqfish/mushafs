@@ -1,6 +1,6 @@
 {
   "name": "@saqfish/asim",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Mushaf data for Aasim Ibn Abi An-Najud (Hafs/Shu'ba)",
   "main": "mushaf.js",
   "scripts": {
