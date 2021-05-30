@@ -30,5 +30,5 @@ const mushaf = (rawi) => {
 const hafs = mushaf("asim/hafs");
 const shuba = mushaf("asim/shuba");
 
-module.exports.rawi1 = hafs;
-module.exports.rawi2 = shuba;
+module.exports.hafs = hafs;
+module.exports.shuba = shuba;
