@@ -1,6 +1,6 @@
 {
   "name": "@saqfish/abu_amr",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Mushaf data for Abu Amr Al-Basri Duri/Suusi",
   "main": "mushaf.js",
   "scripts": {
