@@ -26,8 +26,9 @@ const mushaf = (rawi) => {
   };
 };
 
-const hafs = mushaf("asim/hafs");
-const shuba = mushaf("asim/shuba");
+const hafs = mushaf("hafs");
+const shuba = mushaf("shuba");
+
 
 module.exports.hafs = hafs;
 module.exports.shuba = shuba;
